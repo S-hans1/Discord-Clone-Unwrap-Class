@@ -1,0 +1,31 @@
+
+how to start with tailwind frame work css
+
+1. npm install -D tailwindcss postcss autoprefixer vite run
+
+2. npx tailwindcss init -p run
+
+3. in tailwind.config.js put star * in content
+
+4. in package.json add "scripts":{"start":"vite"},
+
+5. create main.css and copy three lines
+@tailwind base
+@tailwind components
+@tailwind utilities
+
+6. link main.css in index.html
+
+7. add fonts in main.css (if any)
+
+8. in config.js, add font family after plugins
+
+9. got to view terminal and write npm run start
+
+10. follow link cmd+click
+
+
+
+
+
+
